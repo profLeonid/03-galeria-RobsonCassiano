@@ -2,23 +2,23 @@
 
 const imagens = [
     {
-        url: './img/car1.jpg', legenda: 'yellow e green',
+        url: './img/car1.jpg', legenda: 'Mustang Amarelo',
     },
     {
-        url: './img/car2.jpg', legenda: 'yellow e green',
+        url: './img/car2.jpg', legenda: 'Lotus Laranja',
     },
 
     {
-        url: './img/car3.jpg', legenda: 'yellow e green',
+        url: './img/car3.jpg', legenda: 'Onix Vermelho',
     },
     {
-        url: './img/car4.jpg', legenda: 'yellow e green',
+        url: './img/car4.jpg', legenda: 'Bugatti Vinho',
     },
     {
-        url: './img/car5.jpg', legenda: 'yellow e green',
+        url: './img/car5.jpg', legenda: 'Mustang Branco',
     },
     {
-        url: './img/car6.jpg', legenda: 'yellow e green',
+        url: './img/car6.jpg', legenda: 'GM Cinza',
     }
 ]
 
