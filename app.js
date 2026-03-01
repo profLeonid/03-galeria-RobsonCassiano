@@ -12,7 +12,7 @@ const imagens = [
         url: './img/car3.jpg', legenda: 'Onix Vermelho',
     },
     {
-        url: './img/car4.jpg', legenda: 'Peuget Preto',
+        url: './img/car4.jpg', legenda: 'Peugeot Preto',
     },
     {
         url: './img/car5.jpg', legenda: 'Mustang Branco',
